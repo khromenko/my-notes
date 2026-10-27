@@ -14,13 +14,13 @@ tags:
 Организация бесплатного (или квотированного) доступа к мощным моделям через локальный бэкенд с интеграцией в рабочую среду Obsidian.
 
 ## 🛠 Окружение
-| Компонент | Версия / Среда | Роль |
-| :--- | :--- | :--- |
-| **ОС** | Windows 10 + WSL2 (Ubuntu) | Основная среда |
-| **LLM Engine** | [Ollama](https://ollama.com/) (в WSL2) | Запуск и управление моделями |
-| **Orchestrator** | [OpenCode](https://opencode.ai/) (Win + WSL) | Связующее звено (Bridge) |
-| **IDE/Notes** | [Obsidian](https://obsidian.md/) | Интерфейс взаимодействия |
-| **Plugin** | Claudian | Интеграция OpenCode в Obsidian |
+| Компонент        | Версия / Среда                               | Роль                           |
+| :--------------- | :------------------------------------------- | :----------------------------- |
+| **ОС**           | Windows 10 + WSL2 (Ubuntu)                   | Основная среда                 |
+| **LLM Engine**   | [Ollama](https://ollama.com/) (в WSL2)       | Запуск и управление моделями   |
+| **Orchestrator** | [OpenCode](https://opencode.ai/) (Win + WSL) | Связующее звено (Bridge)       |
+| **IDE/Notes**    | [Obsidian](https://obsidian.md/)             | Интерфейс взаимодействия       |
+| **Plugin**       | Claudian                                     | Интеграция OpenCode в Obsidian |
 
 ---
 
